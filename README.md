@@ -1,4 +1,7 @@
 # HAL-AI-AdvisorBot
+
+This is a copy of my group project done for my senior coding class. Original: https://github.com/akumar23/HAL-AI-AdvisorBot
+
 An AI chatbot that gives advice to CMPE and SE students at SJSU.
 
 to get from docker: docker pull mfaryan/hal-final
